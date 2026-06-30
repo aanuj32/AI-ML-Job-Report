@@ -174,19 +174,19 @@ AI-ML-Job-Market-Dashboard/
 
 ### 🌍 Location Insight Dashboard
 
-![Location Insight Dashboard](Images/Location_Insight.png)
+![Location Insight Dashboard](https://github.com/aanuj32/AI-ML-Job-Report/blob/main/Screenshot%202026-06-30%20190001.png)
 
 ---
 
 ### 🧠 Skill & Hiring Insight Dashboard
 
-![Skill & Hiring Insight Dashboard](Images/Skill_Hiring_Insight.png)
+![Skill & Hiring Insight Dashboard](https://github.com/aanuj32/AI-ML-Job-Report/blob/main/Screenshot%202026-06-30%20185741.png)
 
 ---
 
 ### 🏢 Company & Role Insight Dashboard
 
-![Company & Role Insight Dashboard](Images/Company_Role_Insight.png)
+![Company & Role Insight Dashboard](https://github.com/aanuj32/AI-ML-Job-Report/blob/main/Screenshot%202026-06-30%20185637.png)
 
 ---
 
