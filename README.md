@@ -1,99 +1,140 @@
-🤖 AI & ML Job Market Analysis Dashboard
-📌 Project Overview
+# 🤖 AI & ML Job Market Analysis Dashboard
 
-The AI & ML Job Market Analysis Dashboard is an interactive Power BI dashboard designed to analyze the global Artificial Intelligence and Machine Learning job market. This project provides insights into salary trends, hiring patterns, skill demand, geographical distribution, experience-level requirements, and company-wise hiring activities.
+## 📌 Project Overview
+
+The **AI & ML Job Market Analysis Dashboard** is an interactive Power BI dashboard designed to analyze the global Artificial Intelligence and Machine Learning job market. This project provides insights into salary trends, hiring patterns, skill demand, geographical distribution, experience-level requirements, and company-wise hiring activities.
 
 The dashboard helps job seekers, recruiters, and organizations understand the current AI/ML employment landscape and make data-driven decisions.
 
-🎯 Objectives
-Analyze AI & ML job market trends.
-Identify high-paying roles and skills.
-Explore country and region-wise salary distribution.
-Understand experience-level hiring patterns.
-Analyze remote, hybrid, and on-site job opportunities.
-Evaluate company-wise hiring and salary trends.
-📊 Dashboard Pages
-1. Overview Dashboard
+---
+
+## 🎯 Objectives
+
+- Analyze AI & ML job market trends.
+- Identify high-paying roles and skills.
+- Explore country and region-wise salary distribution.
+- Understand experience-level hiring patterns.
+- Analyze remote, hybrid, and on-site job opportunities.
+- Evaluate company-wise hiring and salary trends.
+
+---
+
+## 📊 Dashboard Pages
+
+### 1. Overview Dashboard
 
 Provides a high-level summary of the AI/ML job market.
 
-Key KPIs:
-Total Jobs: 10
-Median Salary: 103K USD
-Average Salary: 93K USD
-Average Salary by Skills: 102K USD
-Average Salary by Country: 95.67K USD
-Visualizations:
-Monthly Job Posting Trend
-Jobs Posted by Experience Level
-Salary Distribution by Country
-City-wise Job Count Analysis
-2. Location Insight Dashboard
+#### Key KPIs
+
+- **Total Jobs:** 10
+- **Median Salary:** 103K USD
+- **Average Salary:** 93K USD
+- **Average Salary by Skills:** 102K USD
+- **Average Salary by Country:** 95.67K USD
+
+#### Visualizations
+
+- Monthly Job Posting Trend
+- Jobs Posted by Experience Level
+- Salary Distribution by Country
+- City-wise Job Count Analysis
+
+### 2. Location Insight Dashboard
 
 Analyzes regional and country-wise hiring patterns.
 
-Visualizations:
-Region-wise Salary Analysis
-Country and City-wise Job Distribution
-Geographic Map Visualization
-Country-wise Average Salary Comparison
-Key Findings:
-North America offers the highest salaries.
-USA and UK lead in AI/ML job opportunities.
-London and San Francisco are major hiring hubs.
-3. Skill & Hiring Insight Dashboard
+#### Visualizations
+
+- Region-wise Salary Analysis
+- Country and City-wise Job Distribution
+- Geographic Map Visualization
+- Country-wise Average Salary Comparison
+
+#### Key Findings
+
+- North America offers the highest salaries.
+- USA and UK lead in AI/ML job opportunities.
+- London and San Francisco are major hiring hubs.
+
+### 3. Skill & Hiring Insight Dashboard
 
 Examines the most in-demand skills across experience levels.
 
-Key Skills:
-Python
-Machine Learning
-Deep Learning
-SQL
-Cloud Computing
-NLP
-TensorFlow
-Computer Vision
-Data Visualization
-Visualizations:
-Skill Usage by Experience Level
-Job Role Salary Ranking
-Experience-wise Skill Count
-Remote Work vs Skills Analysis
-4. Company & Role Insight Dashboard
+#### Key Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- SQL
+- Cloud Computing
+- NLP
+- TensorFlow
+- Computer Vision
+- Data Visualization
+
+#### Visualizations
+
+- Skill Usage by Experience Level
+- Job Role Salary Ranking
+- Experience-wise Skill Count
+- Remote Work vs Skills Analysis
+
+### 4. Company & Role Insight Dashboard
 
 Provides insights into company hiring trends and salary distribution.
 
-Companies Included:
-OpenAI
-Google DeepMind
-NVIDIA
-HuggingFace
-DataCamp
-Visualizations:
-Company Ratings
-Salary vs Company Analysis
-Experience-Level Hiring Distribution
-Job Title vs Remote Work Type
-🛠️ Tools & Technologies Used
-Tool	Purpose
-Power BI	Dashboard Development
-Power Query	Data Cleaning & Transformation
-DAX	Data Modeling & KPI Calculation
-Excel/CSV	Dataset Storage
-📈 Key Insights
-Mid-level professionals account for the majority of job openings.
-North America offers the highest compensation packages.
-Python, Machine Learning, and Deep Learning are the most sought-after skills.
-Remote and hybrid work models dominate the AI/ML industry.
-Specialized roles such as Deep Learning Engineer and ML Engineer receive the highest salaries.
-USA and UK remain the leading AI hiring markets.
-💡 Business Recommendations
-Professionals should focus on Python, ML, Deep Learning, SQL, and Cloud technologies.
-Organizations should invest in remote and hybrid work strategies.
-Companies should expand recruitment in emerging AI markets like India.
-Continuous upskilling is essential due to rapidly evolving AI technologies.
-📂 Repository Structure
+#### Companies Included
+
+- OpenAI
+- Google DeepMind
+- NVIDIA
+- HuggingFace
+- DataCamp
+
+#### Visualizations
+
+- Company Ratings
+- Salary vs Company Analysis
+- Experience-Level Hiring Distribution
+- Job Title vs Remote Work Type
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+| Tool | Purpose |
+|-------|---------|
+| Power BI | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | Data Modeling & KPI Calculation |
+| Excel/CSV | Dataset Storage |
+
+---
+
+## 📈 Key Insights
+
+- Mid-level professionals account for the majority of job openings.
+- North America offers the highest compensation packages.
+- Python, Machine Learning, and Deep Learning are the most sought-after skills.
+- Remote and hybrid work models dominate the AI/ML industry.
+- Specialized roles such as Deep Learning Engineer and ML Engineer receive the highest salaries.
+- USA and UK remain the leading AI hiring markets.
+
+---
+
+## 💡 Business Recommendations
+
+- Professionals should focus on Python, ML, Deep Learning, SQL, and Cloud technologies.
+- Organizations should invest in remote and hybrid work strategies.
+- Companies should expand recruitment in emerging AI markets like India.
+- Continuous upskilling is essential due to rapidly evolving AI technologies.
+
+---
+
+## 📂 Repository Structure
+
+```bash
 AI-ML-Job-Market-Dashboard/
 │
 ├── Dataset/
@@ -110,17 +151,32 @@ AI-ML-Job-Market-Dashboard/
 │
 ├── README.md
 └── Report.pdf
-🚀 How to Use
-Clone this repository.
+```
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository:
+
+```bash
 git clone https://github.com/your-username/AI-ML-Job-Market-Dashboard.git
-Open the .pbix file in Power BI Desktop.
-Explore the interactive dashboards and insights.
-📸 Dashboard Preview
+```
+
+2. Open the `.pbix` file in Power BI Desktop.
+
+3. Explore the interactive dashboards and insights.
+
+---
+
+## 📸 Dashboard Preview
 
 Add screenshots of your dashboard here.
 
-👨‍💻 Author
+---
 
-Anuj
+## 👨‍💻 Author
 
-Aspiring Data Analyst | AI & ML Enthusiast
+**Anuj**
+
+*Aspiring Data Analyst | AI & ML Enthusiast*
