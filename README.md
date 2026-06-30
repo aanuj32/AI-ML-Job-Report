@@ -21,7 +21,7 @@ The dashboard helps job seekers, recruiters, and organizations understand the cu
 
 ## 📊 Dashboard Pages
 
-### 1. Overview Dashboard
+### 📈 1. Overview Dashboard
 
 Provides a high-level summary of the AI/ML job market.
 
@@ -40,7 +40,9 @@ Provides a high-level summary of the AI/ML job market.
 - Salary Distribution by Country
 - City-wise Job Count Analysis
 
-### 2. Location Insight Dashboard
+---
+
+### 🌍 2. Location Insight Dashboard
 
 Analyzes regional and country-wise hiring patterns.
 
@@ -57,7 +59,9 @@ Analyzes regional and country-wise hiring patterns.
 - USA and UK lead in AI/ML job opportunities.
 - London and San Francisco are major hiring hubs.
 
-### 3. Skill & Hiring Insight Dashboard
+---
+
+### 🧠 3. Skill & Hiring Insight Dashboard
 
 Examines the most in-demand skills across experience levels.
 
@@ -80,7 +84,9 @@ Examines the most in-demand skills across experience levels.
 - Experience-wise Skill Count
 - Remote Work vs Skills Analysis
 
-### 4. Company & Role Insight Dashboard
+---
+
+### 🏢 4. Company & Role Insight Dashboard
 
 Provides insights into company hiring trends and salary distribution.
 
@@ -105,10 +111,10 @@ Provides insights into company hiring trends and salary distribution.
 
 | Tool | Purpose |
 |-------|---------|
-| Power BI | Dashboard Development |
-| Power Query | Data Cleaning & Transformation |
-| DAX | Data Modeling & KPI Calculation |
-| Excel/CSV | Dataset Storage |
+| **Power BI** | Dashboard Development |
+| **Power Query** | Data Cleaning & Transformation |
+| **DAX** | Data Modeling & KPI Calculation |
+| **Excel / CSV** | Dataset Storage |
 
 ---
 
@@ -155,23 +161,38 @@ AI-ML-Job-Market-Dashboard/
 
 ---
 
-## 🚀 How to Use
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/AI-ML-Job-Market-Dashboard.git
-```
-
-2. Open the `.pbix` file in Power BI Desktop.
-
-3. Explore the interactive dashboards and insights.
 
 ---
 
 ## 📸 Dashboard Preview
 
-Add screenshots of your dashboard here.
+### 📊 Overview Dashboard
+
+![Overview Dashboard](https://github.com/aanuj32/AI-ML-Job-Report/blob/main/Screenshot%202026-06-30%20185542.png)
+
+---
+
+### 🌍 Location Insight Dashboard
+
+![Location Insight Dashboard](Images/Location_Insight.png)
+
+---
+
+### 🧠 Skill & Hiring Insight Dashboard
+
+![Skill & Hiring Insight Dashboard](Images/Skill_Hiring_Insight.png)
+
+---
+
+### 🏢 Company & Role Insight Dashboard
+
+![Company & Role Insight Dashboard](Images/Company_Role_Insight.png)
+
+---
+
+## 📌 Project Summary
+
+The AI & ML Job Market Analysis Dashboard provides comprehensive insights into global AI and ML job trends, salary distribution, hiring patterns, skill demand, and geographical opportunities. The dashboard highlights the importance of Python, Machine Learning, and Deep Learning skills while showcasing North America as the highest-paying region for AI professionals.
 
 ---
 
@@ -180,3 +201,6 @@ Add screenshots of your dashboard here.
 **Anuj**
 
 *Aspiring Data Analyst | AI & ML Enthusiast*
+
+---
+
